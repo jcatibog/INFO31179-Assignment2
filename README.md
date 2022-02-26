@@ -10,4 +10,4 @@
 
 ## Screenshots
 
-![Course List](/screenshots/iPhone\ 13\ Pro\ Max\ -\ Course\ List.png "Course List")
+![Course List](/screenshots/CourseList.png)
